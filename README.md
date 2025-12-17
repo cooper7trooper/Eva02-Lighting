@@ -108,14 +108,6 @@ Righteyes.setBrightness(50);
 
 ---
 
-## 🎭 Intended Use
-
-* Evangelion Unit‑02 cosplay helmet
-* Conventions and photoshoots
-* Display or animatronic head projects
-
----
-
 ## 📝 License
 
 Released under the **MIT License** — free to modify for personal or commercial cosplay projects.
